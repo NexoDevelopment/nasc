@@ -11,3 +11,5 @@ You can also edit and play with the [account](https://www.github.com/NexoDevelop
 **You can change this at the beggining of the script, the 3DS will try to connect to your UDP server at the corresponding address.**
 
 **You can ALSO add checks (by yourself) for the Title ID so it sends different IP Address corresponding on the game**
+
+# USE PYTHON 2.7.xx
